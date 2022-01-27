@@ -1,0 +1,3 @@
+WIDTH = 7
+HEIGHT = 12
+BLOCK_SIZE  = 60
